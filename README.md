@@ -14,7 +14,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/amandabouddhara
+[linkedin]: https://linkedin.com/in/amanda-bouddhara
 <!--
 **abouddhara/abouddhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
