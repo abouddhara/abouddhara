@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Honeypot Project</b>
-  - [Honeypot on Ubuntu VM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Honeypot on Ubuntu VM](https://github.com/abouddhara/honeypot-project.git)
  
 <h2>📜 Certifications </h2>
 
