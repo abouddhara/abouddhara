@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Honeypot Project</b>
-  - [Honeypot on Ubuntu VM](https://github.com/abouddhara/cowrie-ssh-honeypot)
+  - [SSH Honeypot Project](https://github.com/abouddhara/cowrie-ssh-honeypot)
  
 <h2>📜 Certifications </h2>
 
